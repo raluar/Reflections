@@ -1,0 +1,35 @@
+The possibilities from difference control:
+
+* we can try different things out but yet it can get wild
+
+* but is better than nothing
+
+* right?
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I could:
+
+* recover code that was working or doing some specific thing
+
+* understand how much I changed the code
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+
+Cons
+
+* people may tend to delay commit or become commit addicted!
+
+Pros
+
+* you don't get too many commit unless you screw up!
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+* because when programming, you may want to keep track of how a bunch of files evolve together!
+
+How can you use the commands git log and git diff to view the history of files?
+
+* I use git log to find the commits and IDs that I can then compare with git diff
